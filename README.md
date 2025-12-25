@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">@chronark/access-*</h1>
+    <h1 align="center">@m-muhaimin/access-*</h1>
     <h5>E2E Typed Access Control</h5>
 </div>
 
@@ -16,7 +16,7 @@ different access permissions and verifying requests to resources.
 ## Install
 
 ```
-npm i @chronark/access-policies
+npm i @m-muhaimin/access-policies
 ```
 
 ## Usage
